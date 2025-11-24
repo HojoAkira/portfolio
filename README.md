@@ -21,6 +21,10 @@ This portfolio showcases my projects and the progress I’ve made while learning
 
 ### HTML/CSS Projects
 
+- **Project1: Simple Homepage**
+  - Description: A basic HTML/CSS page with responsive layout.
+  - [View the code](./project1/index.html)
+
 ---
 
 ## 📂 Repository Structure
