@@ -1,0 +1,31 @@
+/* Body style */
+body {
+  background-color: #f9f9f9;
+}
+/* Style for the header*/
+h1 {
+  text-align: center;
+  color: #333;
+}
+/* Style for the links */
+a {
+  text-decoration: none;
+}
+.sub-item-link:link {
+  color: blue;
+}
+.sub-item-link:visited {
+  color: purple;
+}
+
+.sub-item-link:hover {
+  color: red;
+}
+
+.sub-item-link:focus {
+  outline: 2px solid #00cc66;
+}
+
+.sub-item-link:active {
+  color: green;
+}
